@@ -1,3 +1,5 @@
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 [996.ICU](https://996.icu/#/en_US)
 =======
 **Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.**
